@@ -2,3 +2,7 @@
 
 /dist
 /coverage
+
+/apps/landing/node_modules
+/apps/landing/public
+/apps/landing/.cache
